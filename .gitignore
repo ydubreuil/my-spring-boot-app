@@ -24,3 +24,8 @@ buildNumber.properties
 
 .idea/
 *.iml
+
+*.log
+
+#ignore "." files and folders unless specifically added
+.*
