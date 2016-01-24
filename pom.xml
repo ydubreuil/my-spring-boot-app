@@ -46,7 +46,7 @@
     </build>
 
     <scm>
-        <connection>scm:git:git@github.com:cyrille-leclerc/my-spring-boot-app.git</connection>
+        <connection>scm:git:https://github.com/cyrille-leclerc/my-spring-boot-app.git</connection>
         <url>https://github.com/cyrille-leclerc/my-spring-boot-app</url>
     </scm>
 
